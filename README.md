@@ -1,5 +1,5 @@
 # merpai
-my first ml/ai project 
+## my first ml/ai project 
 
 -creating a more personalized chat model 
 
