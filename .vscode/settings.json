@@ -1,0 +1,11 @@
+{
+    "selene.warnRoblox": false,
+    "luau-lsp.types.definitionFiles": {
+        "sl-slua": "c:\\Users\\devmagb650rtx3060\\merp-ai\\.vscode\\sl-vscode-plugin\\slua_default.d.luau"
+    },
+    "luau-lsp.types.documentationFiles": [
+        "c:\\Users\\devmagb650rtx3060\\merp-ai\\.vscode\\sl-vscode-plugin\\slua_default.docs.json"
+    ],
+    "luau-lsp.platform.type": "standard",
+    "luau-lsp.sourcemap.enabled": false
+}
